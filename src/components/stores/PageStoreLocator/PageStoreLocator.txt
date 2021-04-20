@@ -1,0 +1,7 @@
+en:
+  title: Store Locator
+  search: Search by location
+  enterPostalCode: Enter your Zip Code
+de:
+  title: Filialsuche
+  search: Nach Ort suchen
